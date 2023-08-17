@@ -1,6 +1,6 @@
 ### Olá meu nome é Thales 👋
 
-#Sou estudante do 2ºano de Sistemas para Internet na Faculdade UniALfa de Umuarama_Paraná.
+Sou estudante do 2ºano de Sistemas para Internet na Faculdade UniALfa de Umuarama_Paraná.
 
 <!--
 **Thales0820/Thales0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
